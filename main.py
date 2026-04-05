@@ -75,8 +75,8 @@ st.markdown("Use the filters on the left to find the best destinations matching 
 @st.cache_data
 def load_data():
     import os
-    parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    file_path = os.path.join(parent_dir, "travel_india.csv")
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    file_path = os.path.join(current_dir, "travel_india.csv")
     df = pd.read_csv(file_path)
     # Strip whitespace from column names just to be safe
     df.columns = df.columns.str.strip()
