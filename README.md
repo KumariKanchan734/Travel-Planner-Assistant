@@ -29,10 +29,8 @@ TravelWise is a beautifully designed, intuitive travel planning assistant built 
    ```
 3. Run the application from your terminal:
    ```bash
-   cd .vscode
    streamlit run main.py
    ```
-   *(Note: The main script is located in the `.vscode` directory based on the repository structure.)*
 
 ## Credits
 
