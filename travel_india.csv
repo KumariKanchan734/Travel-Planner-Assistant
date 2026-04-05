@@ -1,0 +1,54 @@
+destination_name,location,type,cost,rating,stay,transport,days
+Manali,Himachal Pradesh,adventure,8000,4.5,Hotel,Bus,5
+Shimla,Himachal Pradesh,chill,7000,4.3,Hotel,Bus,4
+Kasol,Himachal Pradesh,adventure,8500,4.5,Hostel,Bus,4
+Leh Ladakh,Ladakh,adventure,15000,4.8,Hotel,Flight,7
+Rishikesh,Uttarakhand,adventure,6000,4.4,Hostel,Train,3
+Nainital,Uttarakhand,chill,6500,4.2,Hotel,Bus,4
+Mussoorie,Uttarakhand,chill,7000,4.3,Hotel,Bus,3
+Jaipur,Rajasthan,chill,9000,4.3,Hotel,Train,4
+Udaipur,Rajasthan,chill,10000,4.6,Resort,Train,5
+Jaisalmer,Rajasthan,adventure,11000,4.5,Camp,Train,5
+Goa,Goa,chill,12000,4.7,Resort,Flight,5
+Mumbai,Maharashtra,chill,11000,4.4,Hotel,Flight,4
+Lonavala,Maharashtra,chill,8000,4.2,Hotel,Train,3
+Mahabaleshwar,Maharashtra,chill,8500,4.3,Resort,Bus,3
+Kerala Backwaters,Kerala,chill,13000,4.8,Houseboat,Flight,5
+Munnar,Kerala,chill,12000,4.7,Resort,Bus,4
+Alleppey,Kerala,chill,11000,4.6,Houseboat,Bus,4
+Ooty,Tamil Nadu,chill,10000,4.5,Hotel,Train,4
+Kodaikanal,Tamil Nadu,chill,9500,4.4,Hotel,Bus,3
+Chennai,Tamil Nadu,chill,9000,4.2,Hotel,Flight,3
+Coorg,Karnataka,chill,11000,4.6,Resort,Bus,4
+Mysore,Karnataka,chill,9000,4.4,Hotel,Train,3
+Hampi,Karnataka,adventure,10000,4.6,Hostel,Bus,4
+Hyderabad,Telangana,chill,8500,4.3,Hotel,Flight,3
+Charminar,Telangana,spiritual,7000,4.2,Hotel,Train,2
+Varanasi,Uttar Pradesh,spiritual,8000,4.7,Hotel,Train,3
+Agra,Uttar Pradesh,chill,7500,4.6,Hotel,Train,2
+Lucknow,Uttar Pradesh,chill,8500,4.3,Hotel,Flight,3
+Delhi,Delhi,chill,9000,4.5,Hotel,Flight,3
+Amritsar,Punjab,spiritual,8000,4.8,Hotel,Train,2
+Chandigarh,Punjab,chill,8500,4.3,Hotel,Bus,3
+Kolkata,West Bengal,chill,9000,4.4,Hotel,Flight,3
+Darjeeling,West Bengal,chill,11000,4.7,Hotel,Train,5
+Sundarbans,West Bengal,adventure,12000,4.5,Resort,Boat,4
+Gangtok,Sikkim,chill,13000,4.8,Hotel,Flight,5
+Shillong,Meghalaya,chill,12000,4.7,Hotel,Flight,4
+Cherrapunji,Meghalaya,adventure,13000,4.6,Resort,Bus,4
+Kaziranga,Assam,adventure,14000,4.7,Resort,Jeep,4
+Tawang,Arunachal Pradesh,adventure,15000,4.8,Hotel,Bus,6
+Puri,Odisha,chill,9000,4.5,Hotel,Train,3
+Konark,Odisha,spiritual,8500,4.4,Hotel,Bus,2
+Bhubaneswar,Odisha,chill,8000,4.3,Hotel,Flight,3
+Khajuraho,Madhya Pradesh,spiritual,9500,4.6,Hotel,Train,3
+Bhopal,Madhya Pradesh,chill,8500,4.3,Hotel,Train,3
+Indore,Madhya Pradesh,chill,9000,4.4,Hotel,Flight,3
+Pachmarhi,Madhya Pradesh,adventure,10000,4.5,Resort,Bus,4
+Ahmedabad,Gujarat,chill,9000,4.3,Hotel,Flight,3
+Kutch,Gujarat,adventure,12000,4.6,Resort,Bus,4
+Dwarka,Gujarat,spiritual,10000,4.7,Hotel,Train,3
+Somnath,Gujarat,spiritual,9500,4.6,Hotel,Train,3
+Port Blair,Andaman,chill,20000,4.9,Resort,Flight,5
+Havelock Island,Andaman,chill,22000,4.9,Villa,Boat,5
+Lakshadweep Islands,Lakshadweep,chill,25000,4.8,Resort,Flight,5
